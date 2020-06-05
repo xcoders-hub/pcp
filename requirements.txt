@@ -17,4 +17,4 @@ redis
 celery
 django-celery
 fiobank
-module
+client
