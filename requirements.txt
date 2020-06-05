@@ -1,6 +1,7 @@
 django>=1.5,<1.6
 django-constance
 django-picklefield
+suds
 south
 anyjson
 django-crispy-forms
